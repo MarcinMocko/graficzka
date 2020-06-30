@@ -1,0 +1,13 @@
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.csprojAssemblyReference.cache
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.Scene3D.resources
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.Properties.Resources.resources
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.csproj.GenerateResource.cache
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\bin\Debug\GrafikaProjekt.exe.config
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\bin\Debug\GrafikaProjekt.exe
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\bin\Debug\GrafikaProjekt.pdb
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\bin\Debug\MathNet.Numerics.dll
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\bin\Debug\MathNet.Numerics.xml
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.csproj.CopyComplete
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.exe
+C:\Users\Zordon5000\Desktop\GrafikaProjekt\obj\Debug\GrafikaProjekt.pdb
