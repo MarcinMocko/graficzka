@@ -57,7 +57,6 @@
     <Compile Include="Scene3D.Designer.cs">
       <DependentUpon>Scene3D.cs</DependentUpon>
     </Compile>
-    <Compile Include="PhongShading.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Scene3D.resx">
