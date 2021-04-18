@@ -1,0 +1,13 @@
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\bin\Release\GrafikaProjekt.exe.config
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\bin\Release\GrafikaProjekt.exe
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\bin\Release\GrafikaProjekt.pdb
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\bin\Release\MathNet.Numerics.dll
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\bin\Release\MathNet.Numerics.xml
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.csprojAssemblyReference.cache
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.Scene3D.resources
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.Properties.Resources.resources
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.csproj.GenerateResource.cache
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.csproj.CopyComplete
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.exe
+C:\Users\Zordon5000\Documents\GitHub\LittleGraphicsEngine\obj\Release\GrafikaProjekt.pdb
